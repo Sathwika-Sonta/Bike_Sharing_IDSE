@@ -1,4 +1,7 @@
 # DATA DASH – Interactive Learning Game
+## Play the Game
+
+[Click here to play Data Dash](https://sathwika-sonta.github.io/Bike_Sharing_IDSE/Data_Dash_Game/data_dash.html)
 
 ## 1. Introduction
 Data Dash is an interactive educational game designed to help players understand basic Machine Learning concepts through gameplay.
